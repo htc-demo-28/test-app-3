@@ -34,5 +34,3 @@ resources:
       port: 80
   db:  # We need a database to store data
     type: mysql
-  assets:
-    type: azure-blob
